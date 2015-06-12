@@ -1,5 +1,7 @@
 # dotcity-websocket-broker
 
+[![Join the chat at https://gitter.im/wotcity/dotcity-websocket-broker](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wotcity/dotcity-websocket-broker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Websocket broker (channel) server for IoT devices. Help makers making Internet of Personal Things.
 
 1. [Install](#install)
